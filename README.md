@@ -8,7 +8,7 @@ Click the green "Clone or download" button, then click "Download ZIP" button in 
 If you meet any difficulties, please contact our support team for help.
 
 Use
-Download the ZIP or RAR   file as above. Unzip it and you will get a folder contains tutorials and related files. Please start with "Adeept_RFID_Kit_For_Arduino_2560.pdf".
+Download the ZIP or RAR   file as above. Unzip it and you will get a folder contains tutorials and related files. Complete information download address：https://www.adeept.com/learn/detail-46.html. Please start with "Adeept_RFID_Kit_For_Arduino_2560.pdf".
 
 Support
 Adeept provides free and quick customer support. Including but not limited to:
